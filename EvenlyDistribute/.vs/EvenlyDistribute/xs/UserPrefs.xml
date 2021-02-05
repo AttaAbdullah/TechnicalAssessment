@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E7F36872-4D6B-4137-870D-4E621AC325D9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvenlyDistribute/Program.cs">
+    <Files>
+      <File FileName="EvenlyDistribute/Program.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EvenlyDistribute FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersToWords", "NumbersToWords\NumbersToWords.csproj", "{80EB7733-7ACE-493E-9ED3-3857581E70A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EB7733-7ACE-493E-9ED3-3857581E70A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EB7733-7ACE-493E-9ED3-3857581E70A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EB7733-7ACE-493E-9ED3-3857581E70A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EB7733-7ACE-493E-9ED3-3857581E70A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
